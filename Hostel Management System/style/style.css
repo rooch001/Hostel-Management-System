@@ -1,0 +1,33 @@
+.navbar-default
+{
+    background-color: #373737;
+    color: #f4f4f4;
+    z-index: 9999;
+    border: 0px;
+    font-family: Montserrat, sans-serif;
+    
+}
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #373737 !important;
+    background-color: #f4f4f4 !important;
+}
+.row
+{
+min-height: 400px;
+        
+    
+    }
+    .footer
+    {
+        background: #373737;
+        min-height: 400px;
+        
+    }
+.modal
+{
+z-index: 10040;
+
+}
