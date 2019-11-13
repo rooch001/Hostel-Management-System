@@ -1,7 +1,7 @@
 # Hostel-Management-System
-Hostel Management System is a web based application desgined to manage activities of hostel.The application provide facility of maintaining all data related to students using admin panel. The students using login details can log into the application and can take benifit of various facilities online.
+Hostel Management System is a web-based application designed to manage activities of the hostel. The application provides the facility of maintaining all data related to students using the admin panel. The students can log into the application and can take benefit of various facilities online. Students can see what food is going to be prepared today (or weekly), holiday details and other leave related details. The easy to use UI provides convenience to both the students as well as admin to manage their activities more efficiently.
 # Key Features:
-1. Seperate Admin and Student Panel
+1. Separate Admin and Student Panel
 2. Dynamic News Updation for students
 3. Mail facility 
 4. Online hostel leave request
